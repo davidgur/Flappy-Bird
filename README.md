@@ -29,11 +29,11 @@ Navigate to the folder where all the game information is stored in CMD or Termin
 
 **Linux:**
 
-`python Tetris.py`
+`python FlappyBird.py`
 
 **If you have both python2 and python3 installed, run**
 
-`python3 Tetris.py`
+`python3 FlappyBird.py`
 
 ## Built With
 * [PyGame](http://www.pygame.org/news) - The Python Library I used
